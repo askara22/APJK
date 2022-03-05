@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Jurnal 2 - 1301194231 </title>
+    <style>
+
+    </style>
+</head>
+
+<body>
+    <table class="body" border="1" cellspacing="0" cellpadding="30">
+        <tr>
+            <td><i>1301194231 - Nurul Fauzi</i></td>
+            <td rowspan="2">
+                <p><b><u><center> SOAL 2: TABLE</center></u></b></p>
+                <table class="nomor2">
+                    <tr>
+                        <th width="50"></th>
+                        <th width="50"></th>
+                        <th width="50"></th>
+                        <th width="50"></th>
+                        <th width="50"></th>
+                    </tr>
+                    <tr>
+                        <td colspan="2"></td>
+                        <td height="50" class="tabel" colspan="2" bgcolor="blue"></td>
+                    </tr>
+                    <tr>
+                        <td colspan="1"></td>
+                        <td height="50" class="tabel" colspan="2" bgcolor="blue"></td>
+                        <td colspan="1"></td>
+                        <td height="50" class="tabel" rowspan="2" bgcolor="blue"></td>
+                    </tr>
+                    <tr>
+                        <td height="50" class="tabel" colspan="2" bgcolor="blue"></td>
+                        <td colspan="1"></td>
+                        <td height="50" class="tabel" colspan="1" bgcolor="blue"></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td height="120" class="tabel" bgcolor="blue"></td>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td height="50" class="tabel" colspan="5" bgcolor="blue"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <center> <u><b> SOAL 1 : FORM </b></u>
+                </center>
+                <ul>
+                    <li> <b> Prodi: 
+                        <ol> <form action="">
+                            <li><input type="radio" id="if" name="prodi"><label for="if"> IF </label></li>
+                            <li><input type="radio" id="se" name="prodi"><label for="se"> SE </label></li>
+                            <li><input type="radio" id="it" name="prodi"><label for="it"> IT </label></li>
+                        </ol>
+                    </li>
+                    <li> Developer Type:
+                        <ol>
+                            <li><label for="fr"> Frontend </label><input type="checkbox" id="fe" name="dev"></li>
+                            <li><label for="be"> Backend </label><input type="checkbox" id="be" name="dev"></li>
+                        </ol></b> </form>
+                    </li>
+                    <center><button type="reset"> Clear </button> </center>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <center>
+                    <p><b><u><center> SOAL 3: LINK </center></u></b></p>
+                    <a href="https://www.w3school.com/html/default.asp"> GO TO TITLE</a>
+                </center>
+            </td>
+        </tr>
+
+</body>
+
+</html>
